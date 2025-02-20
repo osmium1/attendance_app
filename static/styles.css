@@ -1,0 +1,34 @@
+body {
+    padding-top: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.btn-primary {
+    background-color: #007bff;
+}
+h1, h2 {
+    text-align: center;
+}
+
+.maintitle {
+    margin-top: 38px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+#graph {
+    position: absolute;
+    top:30%;
+    left:0px;
+    scale:1;
+}
